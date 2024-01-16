@@ -1,3 +1,5 @@
+# Frequency Counter: Develop a function that takes a list of numbers and returns a dictionary with keys being the numbers and values being the frequency of those numbers in the list.
+
 def frequency_counter(numbers):
 	frequency = {}
 	# Loop over numbers and popullate the frequency dictionary
